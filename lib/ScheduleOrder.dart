@@ -345,7 +345,7 @@ class _ScheduleOrderState extends State<ScheduleOrder> {
     );
   }
 
-  void openLocation() {}
+  // void openLocation() {}
 
   void openMap() {
     Navigator.push(
